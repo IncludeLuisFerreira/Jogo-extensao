@@ -1,3 +1,2 @@
 # Jogo-extensao
- Repositório para o projeto de extensao
-teste
+ Repositório para o projeto de extensão 2
